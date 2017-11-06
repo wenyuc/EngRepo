@@ -620,22 +620,65 @@ Please cut out all the cliches.
 It may sound cliche when someone tells you learning new skills is important. 
 But it's true.
 
+pull up
+1. to stop the vehicle that you are driving.
+I pulled up to the intersection where the shooting happened.
+2. pull up a chair / stool etc - to get a chair etc and sit down
+next to someone who is already sitting.
+3. pull somebody up on sth - to stop someone who is doing something wrong and
+tell them you do not approve.
+I felt I had to pull her up on her lateness.
+4. pull / bring somebody up short
+to surprise or shock someone so that they stop what they are doing or saying to think for a moment.
+The question brought her up short, but after a moment's hestitation, she answered it.
+
+accusation [countable]
+Guilt has very quick ears to an accusation. 做贼心虚
+Do not cast away an honest man for a villain's accusation.
+
+VERBS:
+make / bring / level an accusation against / at somebody
+face / deny / dismiss an accusation
+prove / support an accusation
+avoid accusation
+
+accuse someone of doing sth.
+
+ADJ:
+serious / false / unfounded / groundless / outrageous 
+He was drunk and his accusations were becoming more and more outrageous.
+
+a wild accusation - with no evidence to support it
+bitter accusations - angry
+The dispute was marked by bitter accusations from both sides.
+
+repeated / renewed / further accusations
+
+PHRASES
+amid accusations of something - surrounded by accusations
+He fled the country amid accusations of fraud.
+
+
 === Knowledge ===
 1. ATM Automatic Teller Machine
 bank teller , clerk
 fortune teller
 
 
-1. Fahrenheit 华氏度
+2. Fahrenheit 华氏度
 F= C * 1.8+32
 
 10多年前，吴尊、汪东城、炎亚纶、辰亦儒四个人组成一个男子团队，团队名字就是飞轮海。就是Fahrenheit的音译，他们取这个名字的初衷就是说要做“有温度的人”。
 
-2. pantyhose 裤袜  80D, 150D
+3. pantyhose 裤袜  80D, 150D
 D stands for Denier, 测尼龙线或丝线的密度单位，指9000m长的纤维的质量克数。
 D数越高，表示纤维的相对重量较高，厚度和透明度也增加。D数越小，就越薄越透
 
 40-60D为春秋袜，60D以上为冬装袜，夏季丝袜一般20D一下。1600D以上和秋裤差不多了。
+
+4. stinger 电影片尾再附加片段的手法
+也叫彩蛋。源自西方复活节找彩蛋的游戏，寓意惊喜。
+这里常用bonus scene or extra scene
 
 === Shinning Sentences ===
 1. I'll be the guard dog of all your fever dreams.
@@ -748,6 +791,23 @@ Happy and hopeful about the future. [SYN] optimistic
 locus
 The place where something is particularly known to exist, or which is the centre of something.
 
+stave off [phrasal verb]
+to keep someone or something from reaching you or affecting you for a period of time.
+She brought some fruit on the journey to stave off hunger.
+… helped stave off bandruptcy for … in the 1990s.
+
+dog [vt]
+If a problem or bad luck dogs you, it causes troubles for a long time.
+He has been dogged by injury all season.
+His presidency has been dogged by allegations that … colluded to try to influence the outcome of last year’s election.
+
+reproach  [uncountable]
+criticism, blame, or disapproval
+she said quietly, without reproach.
+
+squash [vt]
+To press something into a flatter shape, often breaking or damaging it. [SYN] flatten
+squash into
 === Song: Counting Stars ===
 
 Old but I'm not that old. Young but I'm not that bold. And I don't think the world is sold, I'm just doing what we're told. 
