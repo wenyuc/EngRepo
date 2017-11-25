@@ -786,7 +786,7 @@ the same house.
 An identical house.
 Our views on this problem are identical.
 
-Jack Ma
+[Jack Ma]
 Daily Mail
 China's richest man Jack Ma, 53, has just become the country's hottest Kung Fu star.
 	richest man
@@ -815,6 +815,47 @@ The assets it acquired in film, and online video and music are shrinking or losi
 
 One reason: Alibaba doesn't have entertainment in its DNA. Its executive ranks lack the talent needed to lead creative endeavors that are fundamentally different from its core e-commerce business.
 	creative endeavors 更加书面表达efforts
+
+[Victoria's Secret]
+Forbes
+Known as the sexiest night of the year, the annual Victoria's Secrets （VS) Fashion Show is set to take place in Shanghai and will air on 29 November. The star-studded night will feature VS angels (models) donning elaborate lingerie and walking down the runway while top musical icons perform.
+	Known as ...
+	star-studded
+	don 身着，比wear更书面
+	elaborate 高级的，复杂的，繁复的
+	lingerie [法]女性内衣
+
+   Asian models on the rise
+This year, expect to also see more Asian faces on the runway, double from last year in fact. From popular names like Liu Wen and Sui He to new additions like Estelle Chen, here's all you need to know about these gorgeous VS angels. 
+   	double from ... 
+	From ... to new additions ...
+
+   Liu Wen
+The 29-year-old has become known for being China's first supermodel and being the first Asian model on the cover of American Vogue. In 2009, she also proved that Asian models could be part of the VS Fashion Show. To date, she has walked for five shows, with this year being her sixth.
+	
+Vogue
+While most of the world prepares for a lazy, sweatpant-wearing Thanksgiving week filled with football, family, and turkey，the Victoria's Secret models are in crunch mode. After all, the lingerie company's annual fashion show only happens once a year, and this Monday, the angels will glide down the runway in the glamorous city of Shanghai.
+	sweatpant-wearing 汗衫
+	in crunch mode 压缩， cash crunch
+	glide down 滑翔而下
+	glamorous 
+
+[Thanksgiving Day Parade]
+Wikipedia
+The annual Macy's Thanksgiving Day Parade in New York City, the world's largest parade, is presented by the U.S.-based department store chain Macy's. The tradition started in 1924, and the three-hour Macy's event is held in Manhattan starting at 9:00 a.m. Eastern Standard Time on Thanksgiving Day, and has been televisioned nationally on NBC since 1952.
+	present - The award will be presented by ...
+
+ABC
+The 91st annual Macy's Thanksgiving Day Parade will kick off the holiday season in New York City with more than 8,000 marchers, floats and giant balloons entertaining more than 3.5 million spectators.
+	kick off the holiday season
+	float 花车
+	entertain,
+	spectator
+
+NBC
+The iconic Macy's Thanksgiving Day Parade kicks off the holiday season with its 91st march down the streets of Manhattan on Thursday, Nov. 23, featuring legendary 50-foot balloons, bands, dance numbers and celebs.
+	march down
+
 
 === Knowledge ===
 1. ATM Automatic Teller Machine
@@ -886,6 +927,7 @@ they're fun. It just happens. -- Kirsten Dunst
 3. It's harder to be kind than clever.
 Cleverness is a gift; kindness is a choice.
 
+4. where safety regulations are often flouted and enforcement rules regularly ignored.
 
 ===IELTS Listening===
 
