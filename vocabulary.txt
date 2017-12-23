@@ -37,6 +37,28 @@ involving his own money vs. The China-hating nobody who stake nothing on nothing
 fret about   担心….
  -          The Tesla Short Seller Tsunami is coming on Monday.
 short seller 卖空
+
+Chinese start-up challenges Tesla
+CNBC
+China's electric vehicle start-up Nio launched its first mass-produced model over the weekend, in a home market marked by competition with companies such as Tesla.
+	mass-produced vs. hand-made
+	model
+The ES8, which starts at 448,000 Chinese yuan ($67,765) is half the starting price of Tesla's price of Tesla's 836,000 yuan ($126,470) Model X in China.
+	starting price
+
+The Wall Street Journal
+Backed by billions from influential investors and armed with global talent, over a dozen Chinese startups want to make dinosaurs of incumbent auto makers. As they start production, their determination is raising the pressure to innovate at traditional auto makers. 
+	backed by ... armed with...
+	make dinosaurs of incumbent auto makers = make incumbent auto makers dinosaurs
+	raise the pressure ... at...
+
+Chinese auto startups - many of them founded just two or three years ago - are betting they can leapfrog existing auto makers in creating a new world of electric, networked cars that drive themselves. But they must make enough of a splash at a time when some of the game-changing technologies they advocate, notably self-driving software, are still in the testing lab.
+	leapfrog ...
+	make a splash 引起轰动
+	game-changing
+	advocate
+
+
 Bye, PlayBoy
 Wall Street Journal
 Hugh Hefner, the founder of Playboy magazine who revolutionized publishing and helped usher in the sexual revolution with a vision of beauty, sophistication and the libertine lifestyle that reflected the desires of the postwar generation, died Wednesday at the age of 91.
@@ -311,7 +333,6 @@ Snack 零食
 Shaxian delicacies 沙县小吃
 
 Delicate 精妙的
-
 True delicacy is not a fragile thing. 真正的精妙，从来都不是脆弱之物。
 
 	
@@ -373,6 +394,22 @@ Apple shook off production problems with its latest iPhone on Thursday to report
 	shake off 拜托，抖落
 	a record high 历史新高
 
+Google and NASA
+Fortune
+NASA and Google have discovered two new planets in a far-away solar system using cutting-edge artificial intelligence, or AI, technologies.
+	cutting-edge
+
+The newly discovered exoplanets, or planets ouotside of the earth's solar system, were found after researchers applied the same AI technologies that help computers recognize images like cats in photos to data gathered from the Kepler space telescope.
+
+The Telegraph
+Google has previously discovered lost tribes, missing ships and even a forgotten forest. But now it has also found two entire planets.
+
+The technology giant used one of its algorithms to sift through thousands of signals sent back to Earth by NASA's kepler space  telescope.
+	sift through 筛选
+
+One of the new planets was found hiding in the Kepler-90 star system, which is around 2,200 light years away from Earth.
+
+The discovery is important because it takes the number of planets in the star system up to eight, the same as our Solar System. It is the first time that any system has been found to have as many planet as ours.
 
 
 substitute 替代品
@@ -682,6 +719,24 @@ helped U.S. companies introduce American staples to Chinese shoppers.
 
 -Wolfberries (枸杞 Goji berry) have been the rage for decades in China, especially in tea. The cranberry has much
 better taste and medicinal properties.
+
+Instant Noodles in China
+BBC
+Easy to make and cheap to buy, instant noodles have long been China's ultimate convenience food.
+	先描述，再出现主语
+	ultimate 
+Be it a snake for students, a meal on the train, or just the go-to choice for hungry workers, more than 46.2 billion packets were sold in China and Hong Kong in 2013.
+	go-to choice, person, bag. 最顺手的东西
+	packets of instant noodles
+
+But by 2016, those soles had tumbled to 38.5 billion packets, according to the World Instant Noodle Association.
+	sales tumble, shrink 暴跌
+
+South China Morning Post
+Just as Americans are cutting back on soda drinking, China's appetite for instant noodles is shrinking sharply, as a growing middle class pursue a healthier diet, while the rise of food delivery smartphone apps gives consumers access to quick, easy and inexpensive means with higher quality.
+
+	appetite shrinks
+	a growing ..., a rise of ...
 
 be ashamed of [adj]
 feeling uncomfortable because someone does something that embarasses you.
